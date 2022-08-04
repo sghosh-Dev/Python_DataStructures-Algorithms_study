@@ -1,0 +1,2 @@
+# Python_DataStructures-Algorithms_study
+Compilation of study notes when studying Data Structures and Algorithms using Python for technical coding interviews. Covers basic data structures, including Arrays, lists, LinkedLists, Tuples, Dictionaries, Stack/Queue implementation, graphs, trees and tree traversals and hashing/hash-tables. I will continue to add to this repository as I continue my studies.
